@@ -9,7 +9,7 @@ const Home = () => {
     <div class="card">
       <img src="/ban.jpg" class="card-img-top" alt="..."/>
       <div class="card-body">
-        <h5 class="card-title">Veg Recipes</h5>
+        <h5 class="card-title">Malabar Biriyani</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -18,7 +18,7 @@ const Home = () => {
     <div class="card">
       <img src="/ban.jpg" class="card-img-top" alt="..."/ >
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Donne Biriyani</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -27,7 +27,60 @@ const Home = () => {
     <div class="card">
       <img src="/ban.jpg" class="card-img-top" alt="..."/ >
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div><div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Donne Biriyani</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="/ban.jpg" class="card-img-top" alt="..."/ >
+      <div class="card-body">
+        <h5 class="card-title">Hyderabadi Biriyani</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
       </div>
     </div>
@@ -36,14 +89,16 @@ const Home = () => {
     <div class="card">
       <img src="/ban.jpg" class="card-img-top" alt="..." />
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Ambur Biriyani</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
   </div>
 </div>
+
     </div>
+    
   )
 }
 
-export default Home;
+export default Home
